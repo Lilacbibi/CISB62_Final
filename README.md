@@ -3,7 +3,7 @@ This is a final project for the course CISB62 in Mt.SAC.
 ## Description
 For this project, I want to try image clustering using SOM and image generation using GAN.
 
-You can find the data here: <br>**Anime VS Cartoon VS Human**:([https://en.wikipedia.org/wiki/Haiku](https://www.kaggle.com/datasets/hadiepratamatulili/anime-vs-cartoon-vs-human)
+You can find the data here: <br>**Anime VS Cartoon VS Human**:(https://www.kaggle.com/datasets/hadiepratamatulili/anime-vs-cartoon-vs-human)
 
 The main steps are as follows:
 
