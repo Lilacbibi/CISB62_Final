@@ -14,4 +14,4 @@ The main steps are as follows:
 - Use <b>Callbacks</b> for training the model
 - Save the GAN model and deploy the model with <b>Flask</b>.
 
-Please check [here](CISB62_Final_Chao.ipynb) to see my project in detail.
+Please check [here](CISB62_final_project_Chao.ipynb) to see my project in detail.
